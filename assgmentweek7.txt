@@ -1,0 +1,35 @@
+1. -mkdir elvina
+   -cd elvina
+2. -mkdir sekolah
+   -cd sekolah
+   -mkdir kerja
+   -cd kerja
+3. -cd -.
+   -touch ijasah.txt
+   -echo Perkenalkan namaku elvina 
+
+         Aku berasal dari ponorogo
+
+         Salam Kenal :D > ijasah.txt
+    -cat ijasah.txt
+    -touch portfolio.txt
+    -echo Saya pernah bekerja pada beberapa perusahaan salah satu 
+          diantaranya ialah
+
+- PT Telkom Indonesia 
+- Astra Internasional
+- Elang Mahkota Teknologi > portfolio.txt
+4.cd ..
+5.-cd kerja
+  -touch cv.txt
+  -echo Salam,
+
+Perkenalkan namaku elvina, saya memiliki kegemaran
+- menulis
+- scroll tiktok 
+- mendengarkan musik > cv.txt
+  -cat cv.txt
+6. mv portfolio.txt/kerja
+
+  
+
